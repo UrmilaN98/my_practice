@@ -1,0 +1,12 @@
+.beauty{
+    color: blue;
+    background-color: bisque;
+    
+    
+    font-size: 50px;
+    font-family: Arial;
+    font-style: italic;
+    text-shadow: 10px 5px 5px red;
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px gold;
+}

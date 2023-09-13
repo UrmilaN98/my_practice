@@ -1,0 +1,15 @@
+.TBorder{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+tabel,td,th{
+
+    border: 1px solid black;
+    /*border-collapse: collapse;*/
+    padding: auto;
+    text-align: center;
+    color: orangered;
+    /*border-radius: 10px;*/
+}
